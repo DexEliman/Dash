@@ -32,8 +32,10 @@ FONCTIONALITE PRINCIPAL :
         
 
 Les routes:
+
 POST /skills, GET /skills, PUT /skills/:id, DELETE /skills/:id
 Objectifs :
+
 POST /goals, GET /goals, PUT /goals/:id, DELETE /goals/:id
 
 Utilisateurs:

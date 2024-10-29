@@ -43,4 +43,5 @@ POST /users, POST /users/login, GET /users/ID
 ![Screenshot 2024-10-09 124210](https://github.com/user-attachments/assets/8552efcb-01df-46b5-8d20-19056f1baf40)
 
 
-=======================VOIR WIKI POUR PLUS D'INFORMATION!!!!!!!!!!!!!===============================
+  ==========VOIR WIKI POUR PLUS D'INFORMATION!!!!!!!!!!!!!===========
+  lien : https://github.com/DexEliman/Dash/wiki

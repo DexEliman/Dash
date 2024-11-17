@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+body{
+  background: linear-gradient(90deg, #5307b0, #1c609b);
+}
+.box{
+    width: 400px;
+    height: 250px;
+    background-color: #1248bd; 
+    border: 5px solid #000; 
+    padding: 20px;
+    color: white; 
+    text-align: center; 
+    margin: 50px auto; 
+    border-radius: 10px;
+}
+

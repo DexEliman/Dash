@@ -1,3 +1,25 @@
+==================| WELCOME TO SKILL LAB  |=====================
+                                                                     
+OBJECTIF:
+# React + Vite
+
+  L'objectif global de la plateforme est de créer un environnement structuré et motivant pour que les étudiants
+  puissent améliorer leurs compétences en développement web tout en suivant leurs progrès de manière efficace et interactive.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+FONCTIONALITE PRINCIPAL :
+Currently, two official plugins are available:
+
+  AUTHENTIFICATION: 
+           
+
+  SUIVI DE COMPETENCE:
+  
+          Les étudiants peuvent ajouter des compétences spécifiques à un tableau de suivi.
+          Chaque compétence a un niveau d'avancement : -> Facile
+                                                       -> Moyen
+                                                       -> Difficile 
+           que les étudiants peuvent mettre à jour au fur et à mesure qu'ils progressent.
           
   PLANNIFICATION DES OBJECTIFS D'APPRENTISAGES :
 
